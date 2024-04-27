@@ -9,6 +9,6 @@ However, PWM generation cannot be maintained during light sleep.
 I'm not sure what settings I'm missing in my program that would help me solve this problem.
 Thanks!
 
-IDF version: (master)5.4.0
-Development board: ESP32-C6-DevKitM-1
-Development Platform: Windows, VS Code
+- IDF version: (master)5.4.0
+- Development board: ESP32-C6-DevKitM-1
+- Development Platform: Windows, VS Code
